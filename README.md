@@ -19,5 +19,5 @@ press enter details will be shown on the webpage
 ![image](https://user-images.githubusercontent.com/70071334/203700323-fc683ebe-b47d-47eb-8180-a9c86df20270.png)
 
 
-#Thanks !
+# Thanks !
 
