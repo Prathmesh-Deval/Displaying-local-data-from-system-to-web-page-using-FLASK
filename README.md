@@ -1,10 +1,10 @@
 # Displaying-local-data-from-system-to-web-page-using-FLASK
 Fetching text and image data from our folders and display it on webpage
 
-# Install Necessary Libraries
+## Install Necessary Libraries
 pip install flask
 
-# store your data inside static folder in the same format given in sample "kettan" folder
+### store your data inside static folder in the same format given in sample "kettan" folder
 1. Text file containing name and ID card number of person
 2. Persons face detected Image
 3. ID card Image
